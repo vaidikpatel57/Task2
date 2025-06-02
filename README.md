@@ -9,13 +9,6 @@ A simple, responsive To-Do List web application built using **HTML**, **CSS**, a
 - Remove tasks individually
 - Instant UI updates without page reload
 
-## 📁 Project Structure
-.
-├── index.html # Main HTML layout
-├── style.css # Styling for the app
-└── script.js # JavaScript for interactivity
-
-
 ## 🛠️ How It Works
 
 1. Enter a task in the input box.
